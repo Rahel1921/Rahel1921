@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahel1921
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on develping my programming skills.
+- 💞️ I’m looking to collaborate on developing my programming skills.
 - 📫 you can reach me at rhailu708@gmail.com
 
 <!---
